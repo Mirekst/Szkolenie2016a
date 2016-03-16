@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-16"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.01" xmlns="http://tempuri.org/Config.xsd">
-  Zmiana na serwerze2
+  Zmiana na serwerze3
   <Proces>
     <GUID>80023efe-7c94-4217-a532-6290d80ecb7f</GUID>
     <Description>NBPS - Smart</Description>
